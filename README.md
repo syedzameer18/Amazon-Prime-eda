@@ -1,7 +1,3 @@
-This is a strong and well-structured overview for your **Amazon Prime EDA** project. To make it even more impactful—especially for portfolios, interviews, or presentations—here are a few enhancement suggestions and a polished version:
-
----
-
 ## 📊 Amazon Prime EDA – Exploratory Data Analysis Project
 
 ### 📌 **Project Overview**
